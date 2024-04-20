@@ -3,9 +3,9 @@
 
   <q-toolbar-title style="overflow: unset" class="text-bold">
     <q-avatar>
-      <img src="/logo-white.svg">
+      <img src="/logo.png">
     </q-avatar>
-    R2-Explorer
+    Tings-Drive
   </q-toolbar-title>
   <q-space />
   <div>
